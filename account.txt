@@ -1,2 +1,2 @@
-Jan: 0
-Natalla: 0
+Jan: 2
+Natalla: 1
